@@ -1,0 +1,15 @@
+
+
+
+.grid-item {
+   
+    height:50px;
+    width:100px;
+    background-color: red;
+    margin-top:10px;
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
